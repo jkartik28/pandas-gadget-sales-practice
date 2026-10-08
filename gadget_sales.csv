@@ -1,0 +1,501 @@
+Order_ID,Order_Date,Product_Category,Product_Name,Quantity_Ordered,Unit_Price,Store_Location,Payment_Method,Customer_Rating,Is_Express_Shipping,Discount_Percent,Return_Status,Warehouse_Code
+ORD1000,2024-01-01,Accessories,Ultra-Wide Monitor,2,297.92,Tokyo,Debit Card,3.0,False,0.05,No Return,WH-4
+ORD1001,2024-01-02,Gaming,USB-C MegaDock,8,121.9,Sydney,PayPal,,True,0.05,No Return,WH-5
+ORD1002,2024-01-03,Smart Home,Smart Thermostat,8,292.69,Berlin,Debit Card,2.0,False,0.05,No Return,WH-4
+ORD1003,2024-01-04,Gaming,Wireless Buds Pro,1,27.4,Tokyo,PayPal,3.0,True,0.0,No Return,WH-4
+ORD1004,2024-01-05,Gaming,Ultra-Wide Monitor,3,214.75,London,Crypto,3.0,True,0.1,No Return,WH-5
+ORD1005,2024-01-06,Wearables,RGB Mechanical Keyboard,10,92.05,Berlin,Crypto,5.0,False,0.0,No Return,WH-5
+ORD1006,2024-01-07,Smart Home,Smart Eco Hub,9,55.39,Mumbai,Debit Card,5.0,True,0.0,No Return,WH-2
+ORD1007,2024-01-08,Smart Home,Smart Eco Hub,5,40.78,London,Debit Card,3.0,True,0.15,Pending,WH-5
+ORD1008,2024-01-09,Smart Home,Wireless Buds Pro,6,248.26,London,Crypto,4.0,True,0.1,No Return,WH-2
+ORD1009,2024-01-10,Gaming,USB-C MegaDock,4,128.86,New York,Debit Card,4.0,True,0.0,No Return,WH-2
+ORD1010,2024-01-11,Accessories,USB-C MegaDock,10,257.8,Sydney,PayPal,2.0,False,0.0,No Return,WH-2
+ORD1011,2024-01-12,Smart Home,RGB Mechanical Keyboard,2,36.89,Berlin,PayPal,5.0,True,0.0,No Return,WH-4
+ORD1012,2024-01-13,Gaming,Wireless Buds Pro,8,120.62,London,Crypto,5.0,False,0.0,No Return,WH-4
+ORD1013,2024-01-14,Wearables,Smart Eco Hub,6,195.73,New York,Credit Card,4.0,False,0.0,No Return,WH-5
+ORD1014,2024-01-15,Accessories,USB-C MegaDock,5,279.89,Mumbai,PayPal,,False,0.0,No Return,WH-4
+ORD1015,2024-01-16,Wearables,Wireless Buds Pro,9,121.78,Tokyo,Debit Card,4.0,False,0.0,No Return,WH-5
+ORD1016,2024-01-17,Accessories,Noise-Cancel Headphones,1,224.67,Berlin,Credit Card,,True,0.1,No Return,WH-4
+ORD1017,2024-01-18,Gaming,USB-C MegaDock,5,311.8,London,Credit Card,5.0,False,0.05,No Return,WH-1
+ORD1018,2024-01-19,Audio,Ultra-Wide Monitor,6,221.31,Sydney,PayPal,4.0,True,0.1,Completed,WH-1
+ORD1019,2024-01-20,Accessories,Noise-Cancel Headphones,5,93.04,New York,PayPal,3.0,False,0.0,No Return,WH-5
+ORD1020,2024-01-21,Wearables,Smart Thermostat,6,23.17,London,Credit Card,5.0,False,0.2,No Return,WH-4
+ORD1021,2024-01-22,Gaming,USB-C MegaDock,6,306.48,Sydney,Credit Card,4.0,True,0.15,No Return,WH-4
+ORD1022,2024-01-23,Accessories,Smart Eco Hub,7,22.13,London,Crypto,3.0,False,0.15,No Return,WH-2
+ORD1023,2024-01-24,Audio,FitBand X,4,308.03,Berlin,Debit Card,1.0,False,0.15,No Return,WH-3
+ORD1024,2024-01-25,Audio,Noise-Cancel Headphones,8,192.19,Berlin,Crypto,4.0,True,0.2,No Return,WH-5
+ORD1025,2024-01-26,Smart Home,Smart Thermostat,7,329.59,Berlin,PayPal,4.0,True,0.05,No Return,WH-3
+ORD1026,2024-01-27,Smart Home,RGB Mechanical Keyboard,9,282.59,Mumbai,Crypto,5.0,False,0.0,Pending,WH-3
+ORD1027,2024-01-28,Wearables,RGB Mechanical Keyboard,7,349.31,Mumbai,Crypto,5.0,False,0.05,No Return,WH-5
+ORD1028,2024-01-29,Accessories,Smart Eco Hub,3,132.49,New York,Crypto,2.0,False,0.1,No Return,WH-4
+ORD1029,2024-01-30,Accessories,USB-C MegaDock,3,272.01,Berlin,Crypto,5.0,False,0.1,Completed,WH-5
+ORD1030,2024-01-31,Smart Home,Wireless Buds Pro,8,149.65,Sydney,Debit Card,3.0,False,0.05,No Return,WH-3
+ORD1031,2024-02-01,Accessories,USB-C MegaDock,5,175.76,London,Debit Card,5.0,False,0.0,No Return,WH-4
+ORD1032,2024-02-02,Accessories,Smart Eco Hub,4,225.21,Tokyo,Credit Card,5.0,True,0.0,No Return,WH-1
+ORD1033,2024-02-03,Audio,RGB Mechanical Keyboard,8,307.68,Sydney,PayPal,4.0,True,0.2,No Return,WH-5
+ORD1034,2024-02-04,Smart Home,USB-C MegaDock,6,344.67,Mumbai,Crypto,5.0,False,0.05,No Return,WH-5
+ORD1035,2024-02-05,Gaming,RGB Mechanical Keyboard,2,272.37,Mumbai,Credit Card,3.0,False,0.05,No Return,WH-4
+ORD1036,2024-02-06,Smart Home,Noise-Cancel Headphones,4,154.95,Sydney,Credit Card,4.0,True,0.0,No Return,WH-1
+ORD1037,2024-02-07,Gaming,Smart Thermostat,4,156.15,Mumbai,Credit Card,5.0,True,0.0,No Return,WH-1
+ORD1038,2024-02-08,Audio,Wireless Buds Pro,6,262.09,Berlin,Debit Card,4.0,False,0.15,No Return,WH-4
+ORD1039,2024-02-09,Wearables,Noise-Cancel Headphones,6,94.99,New York,Crypto,4.0,False,0.1,No Return,WH-2
+ORD1040,2024-02-10,Accessories,RGB Mechanical Keyboard,1,52.01,London,Crypto,4.0,False,0.1,No Return,WH-5
+ORD1041,2024-02-11,Audio,RGB Mechanical Keyboard,8,133.8,New York,PayPal,5.0,False,0.0,No Return,WH-5
+ORD1042,2024-02-12,Accessories,FitBand X,6,111.23,London,Crypto,3.0,True,0.05,No Return,WH-3
+ORD1043,2024-02-13,Wearables,FitBand X,3,114.26,London,Crypto,3.0,True,0.0,No Return,WH-4
+ORD1044,2024-02-14,Wearables,Noise-Cancel Headphones,9,93.26,New York,Credit Card,5.0,True,0.1,No Return,WH-3
+ORD1045,2024-02-15,Audio,Ultra-Wide Monitor,2,29.1,Sydney,PayPal,5.0,True,0.0,No Return,WH-3
+ORD1046,2024-02-16,Wearables,Noise-Cancel Headphones,8,20.99,London,Crypto,2.0,False,0.0,Completed,WH-1
+ORD1047,2024-02-17,Gaming,FitBand X,10,345.89,New York,Debit Card,3.0,False,0.05,No Return,WH-5
+ORD1048,2024-02-18,Wearables,RGB Mechanical Keyboard,3,158.3,London,Crypto,2.0,False,0.2,No Return,WH-3
+ORD1049,2024-02-19,Accessories,Smart Eco Hub,5,143.75,Tokyo,Credit Card,3.0,False,0.0,No Return,WH-1
+ORD1050,2024-02-20,Accessories,Noise-Cancel Headphones,6,242.68,Sydney,Debit Card,4.0,True,0.15,No Return,WH-4
+ORD1051,2024-02-21,Accessories,RGB Mechanical Keyboard,10,88.12,Berlin,Credit Card,5.0,False,0.0,No Return,WH-3
+ORD1052,2024-02-22,Accessories,Smart Eco Hub,6,333.24,London,Crypto,5.0,False,0.0,No Return,WH-5
+ORD1053,2024-02-23,Gaming,Smart Eco Hub,4,278.43,Tokyo,Debit Card,4.0,False,0.0,No Return,WH-3
+ORD1054,2024-02-24,Smart Home,FitBand X,3,44.95,Berlin,PayPal,4.0,True,0.0,Completed,WH-4
+ORD1055,2024-02-25,Audio,Noise-Cancel Headphones,4,154.89,Berlin,PayPal,5.0,False,0.05,Completed,WH-3
+ORD1056,2024-02-26,Accessories,USB-C MegaDock,1,309.5,London,Debit Card,4.0,False,0.0,No Return,WH-5
+ORD1057,2024-02-27,Wearables,Wireless Buds Pro,4,331.49,New York,Debit Card,,True,0.0,No Return,WH-1
+ORD1058,2024-02-28,Accessories,FitBand X,1,171.58,London,Credit Card,4.0,True,0.2,No Return,WH-5
+ORD1059,2024-02-29,Wearables,FitBand X,1,220.49,Tokyo,Debit Card,2.0,False,0.0,No Return,WH-1
+ORD1060,2024-03-01,Wearables,USB-C MegaDock,10,70.96,Berlin,Credit Card,5.0,False,0.1,Completed,WH-2
+ORD1061,2024-03-02,Accessories,Wireless Buds Pro,6,347.04,London,Crypto,3.0,True,0.0,No Return,WH-5
+ORD1062,2024-03-03,Gaming,RGB Mechanical Keyboard,5,92.61,New York,Credit Card,5.0,False,0.1,No Return,WH-5
+ORD1063,2024-03-04,Wearables,Ultra-Wide Monitor,4,330.82,London,Debit Card,2.0,True,0.0,Completed,WH-4
+ORD1064,2024-03-05,Wearables,Noise-Cancel Headphones,3,232.63,Sydney,Debit Card,3.0,False,0.0,No Return,WH-3
+ORD1065,2024-03-06,Accessories,Ultra-Wide Monitor,1,218.59,New York,Crypto,5.0,True,0.0,Pending,WH-1
+ORD1066,2024-03-07,Wearables,RGB Mechanical Keyboard,6,186.75,Tokyo,Debit Card,3.0,False,0.0,No Return,WH-1
+ORD1067,2024-03-08,Wearables,Smart Thermostat,2,92.27,Berlin,Debit Card,5.0,True,0.0,No Return,WH-4
+ORD1068,2024-03-09,Accessories,FitBand X,8,74.14,London,PayPal,3.0,True,0.1,No Return,WH-4
+ORD1069,2024-03-10,Accessories,Wireless Buds Pro,10,88.86,New York,PayPal,4.0,True,0.15,No Return,WH-3
+ORD1070,2024-03-11,Audio,FitBand X,5,77.46,Sydney,Crypto,5.0,True,0.15,No Return,WH-3
+ORD1071,2024-03-12,Gaming,Smart Eco Hub,7,276.16,New York,Credit Card,4.0,False,0.1,No Return,WH-5
+ORD1072,2024-03-13,Gaming,FitBand X,10,132.29,Mumbai,PayPal,3.0,True,0.0,No Return,WH-2
+ORD1073,2024-03-14,Wearables,FitBand X,2,34.38,Sydney,Credit Card,3.0,False,0.0,No Return,WH-3
+ORD1074,2024-03-15,Gaming,RGB Mechanical Keyboard,8,339.65,Tokyo,Debit Card,1.0,True,0.0,No Return,WH-4
+ORD1075,2024-03-16,Wearables,RGB Mechanical Keyboard,2,311.07,Berlin,PayPal,3.0,True,0.0,No Return,WH-3
+ORD1076,2024-03-17,Audio,RGB Mechanical Keyboard,4,325.8,Tokyo,Crypto,5.0,True,0.05,No Return,WH-1
+ORD1077,2024-03-18,Accessories,Ultra-Wide Monitor,1,348.29,London,Crypto,5.0,True,0.05,No Return,WH-2
+ORD1078,2024-03-19,Accessories,Smart Eco Hub,5,73.25,New York,Crypto,5.0,True,0.0,No Return,WH-5
+ORD1079,2024-03-20,Accessories,Smart Thermostat,9,147.74,Mumbai,PayPal,5.0,False,0.0,No Return,WH-1
+ORD1080,2024-03-21,Gaming,Smart Thermostat,1,269.01,Sydney,Credit Card,5.0,False,0.15,Completed,WH-1
+ORD1081,2024-03-22,Audio,RGB Mechanical Keyboard,9,248.17,Sydney,Debit Card,5.0,False,0.1,Completed,WH-2
+ORD1082,2024-03-23,Gaming,Wireless Buds Pro,8,66.56,New York,Credit Card,3.0,False,0.0,No Return,WH-5
+ORD1083,2024-03-24,Gaming,Ultra-Wide Monitor,6,288.3,Mumbai,Credit Card,5.0,False,0.2,No Return,WH-4
+ORD1084,2024-03-25,Audio,USB-C MegaDock,7,90.19,New York,Debit Card,5.0,True,0.2,No Return,WH-5
+ORD1085,2024-03-26,Audio,Wireless Buds Pro,3,89.98,London,Debit Card,4.0,False,0.0,No Return,WH-3
+ORD1086,2024-03-27,Audio,Noise-Cancel Headphones,1,194.89,Tokyo,PayPal,2.0,False,0.0,No Return,WH-1
+ORD1087,2024-03-28,Audio,Noise-Cancel Headphones,5,213.63,Sydney,PayPal,4.0,False,0.05,Completed,WH-3
+ORD1088,2024-03-29,Accessories,Wireless Buds Pro,2,209.33,London,PayPal,4.0,False,0.2,No Return,WH-4
+ORD1089,2024-03-30,Smart Home,RGB Mechanical Keyboard,5,45.65,Tokyo,PayPal,5.0,True,0.15,No Return,WH-3
+ORD1090,2024-03-31,Smart Home,USB-C MegaDock,8,308.95,London,PayPal,4.0,False,0.0,No Return,WH-5
+ORD1091,2024-04-01,Audio,USB-C MegaDock,9,103.98,Mumbai,Debit Card,4.0,False,0.0,No Return,WH-3
+ORD1092,2024-04-02,Smart Home,Ultra-Wide Monitor,2,58.39,Sydney,Credit Card,,False,0.05,No Return,WH-4
+ORD1093,2024-04-03,Smart Home,USB-C MegaDock,3,312.73,New York,PayPal,2.0,False,0.05,No Return,WH-4
+ORD1094,2024-04-04,Audio,Noise-Cancel Headphones,3,335.14,New York,PayPal,4.0,True,0.0,No Return,WH-4
+ORD1095,2024-04-05,Smart Home,Smart Eco Hub,1,303.81,Tokyo,Credit Card,1.0,True,0.15,No Return,WH-5
+ORD1096,2024-04-06,Gaming,RGB Mechanical Keyboard,8,286.19,Berlin,PayPal,5.0,False,0.1,No Return,WH-4
+ORD1097,2024-04-07,Wearables,USB-C MegaDock,6,234.51,Mumbai,Credit Card,5.0,False,0.15,No Return,WH-1
+ORD1098,2024-04-08,Wearables,Ultra-Wide Monitor,8,199.54,Tokyo,Credit Card,3.0,True,0.15,No Return,WH-4
+ORD1099,2024-04-09,Audio,Noise-Cancel Headphones,9,44.14,Berlin,Debit Card,5.0,True,0.1,No Return,WH-3
+ORD1100,2024-04-10,Accessories,Smart Eco Hub,5,151.83,London,Crypto,3.0,True,0.0,No Return,WH-3
+ORD1101,2024-04-11,Audio,FitBand X,3,139.85,Mumbai,Debit Card,5.0,True,0.05,No Return,WH-3
+ORD1102,2024-04-12,Accessories,FitBand X,5,102.02,London,Crypto,5.0,False,0.0,Completed,WH-5
+ORD1103,2024-04-13,Wearables,Smart Eco Hub,5,257.35,Sydney,Crypto,5.0,False,0.1,No Return,WH-3
+ORD1104,2024-04-14,Audio,Noise-Cancel Headphones,5,181.12,Mumbai,Crypto,1.0,True,0.0,No Return,WH-5
+ORD1105,2024-04-15,Gaming,Ultra-Wide Monitor,3,42.15,Berlin,PayPal,,True,0.1,No Return,WH-5
+ORD1106,2024-04-16,Smart Home,Smart Eco Hub,10,88.76,Sydney,Debit Card,5.0,True,0.0,No Return,WH-4
+ORD1107,2024-04-17,Accessories,RGB Mechanical Keyboard,4,243.89,New York,Crypto,3.0,True,0.0,No Return,WH-1
+ORD1108,2024-04-18,Smart Home,RGB Mechanical Keyboard,9,40.5,Berlin,Credit Card,5.0,False,0.0,No Return,WH-4
+ORD1109,2024-04-19,Smart Home,FitBand X,10,300.15,Tokyo,PayPal,3.0,False,0.0,Completed,WH-4
+ORD1110,2024-04-20,Audio,USB-C MegaDock,9,180.87,New York,Debit Card,5.0,False,0.1,No Return,WH-5
+ORD1111,2024-04-21,Smart Home,Ultra-Wide Monitor,2,176.0,New York,Crypto,2.0,True,0.1,No Return,WH-5
+ORD1112,2024-04-22,Gaming,FitBand X,8,213.46,Tokyo,Credit Card,5.0,False,0.05,No Return,WH-3
+ORD1113,2024-04-23,Smart Home,USB-C MegaDock,8,291.27,Mumbai,Debit Card,4.0,False,0.0,No Return,WH-3
+ORD1114,2024-04-24,Audio,USB-C MegaDock,7,131.52,New York,Debit Card,2.0,False,0.0,No Return,WH-4
+ORD1115,2024-04-25,Gaming,Smart Thermostat,8,242.14,Berlin,PayPal,3.0,False,0.0,No Return,WH-2
+ORD1116,2024-04-26,Wearables,RGB Mechanical Keyboard,3,204.52,Sydney,Debit Card,1.0,True,0.0,No Return,WH-2
+ORD1117,2024-04-27,Smart Home,Noise-Cancel Headphones,6,104.45,New York,PayPal,4.0,True,0.15,No Return,WH-3
+ORD1118,2024-04-28,Audio,Wireless Buds Pro,1,309.34,Berlin,Crypto,3.0,True,0.0,Completed,WH-2
+ORD1119,2024-04-29,Wearables,Noise-Cancel Headphones,7,282.14,London,PayPal,4.0,True,0.0,Pending,WH-3
+ORD1120,2024-04-30,Wearables,Wireless Buds Pro,1,235.58,Berlin,Credit Card,3.0,True,0.0,No Return,WH-5
+ORD1121,2024-05-01,Accessories,Smart Eco Hub,9,299.94,Sydney,PayPal,3.0,False,0.0,No Return,WH-4
+ORD1122,2024-05-02,Gaming,RGB Mechanical Keyboard,1,305.54,Berlin,Credit Card,5.0,False,0.05,No Return,WH-1
+ORD1123,2024-05-03,Smart Home,USB-C MegaDock,1,252.3,Tokyo,PayPal,1.0,False,0.05,No Return,WH-4
+ORD1124,2024-05-04,Audio,Ultra-Wide Monitor,7,295.4,Sydney,Debit Card,5.0,True,0.0,No Return,WH-3
+ORD1125,2024-05-05,Accessories,Wireless Buds Pro,2,248.65,Mumbai,Crypto,5.0,False,0.0,No Return,WH-3
+ORD1126,2024-05-06,Gaming,Noise-Cancel Headphones,5,242.85,London,Credit Card,5.0,False,0.0,No Return,WH-4
+ORD1127,2024-05-07,Accessories,USB-C MegaDock,8,222.23,Tokyo,PayPal,4.0,False,0.0,No Return,WH-3
+ORD1128,2024-05-08,Gaming,Wireless Buds Pro,8,267.16,Mumbai,PayPal,5.0,False,0.0,No Return,WH-2
+ORD1129,2024-05-09,Gaming,Wireless Buds Pro,3,68.13,Berlin,PayPal,3.0,False,0.2,No Return,WH-2
+ORD1130,2024-05-10,Smart Home,Smart Thermostat,7,310.09,Sydney,Debit Card,2.0,False,0.05,No Return,WH-3
+ORD1131,2024-05-11,Gaming,Wireless Buds Pro,3,307.07,London,Debit Card,3.0,True,0.05,No Return,WH-3
+ORD1132,2024-05-12,Accessories,Ultra-Wide Monitor,6,24.8,Tokyo,Credit Card,5.0,True,0.0,No Return,WH-2
+ORD1133,2024-05-13,Gaming,RGB Mechanical Keyboard,6,291.65,Mumbai,Credit Card,1.0,True,0.0,No Return,WH-3
+ORD1134,2024-05-14,Smart Home,Ultra-Wide Monitor,3,58.17,Mumbai,Debit Card,4.0,True,0.05,No Return,WH-3
+ORD1135,2024-05-15,Smart Home,FitBand X,7,127.26,London,Credit Card,,True,0.1,Completed,WH-4
+ORD1136,2024-05-16,Accessories,USB-C MegaDock,3,264.08,Berlin,Crypto,5.0,False,0.1,Completed,WH-1
+ORD1137,2024-05-17,Wearables,RGB Mechanical Keyboard,8,68.85,London,Crypto,4.0,False,0.0,No Return,WH-2
+ORD1138,2024-05-18,Wearables,Smart Thermostat,10,289.02,Mumbai,Debit Card,2.0,False,0.05,No Return,WH-4
+ORD1139,2024-05-19,Gaming,RGB Mechanical Keyboard,4,293.76,New York,Credit Card,5.0,True,0.0,No Return,WH-1
+ORD1140,2024-05-20,Audio,RGB Mechanical Keyboard,1,185.0,Tokyo,PayPal,4.0,False,0.15,No Return,WH-3
+ORD1141,2024-05-21,Gaming,Noise-Cancel Headphones,4,17.14,London,Crypto,2.0,False,0.05,No Return,WH-3
+ORD1142,2024-05-22,Accessories,RGB Mechanical Keyboard,7,111.16,Mumbai,Debit Card,2.0,True,0.05,No Return,WH-4
+ORD1143,2024-05-23,Accessories,Smart Thermostat,4,221.67,Berlin,Credit Card,5.0,False,0.0,No Return,WH-3
+ORD1144,2024-05-24,Accessories,Ultra-Wide Monitor,6,343.7,Mumbai,Debit Card,5.0,True,0.05,No Return,WH-5
+ORD1145,2024-05-25,Accessories,RGB Mechanical Keyboard,9,226.66,Berlin,PayPal,5.0,True,0.0,No Return,WH-4
+ORD1146,2024-05-26,Accessories,Smart Eco Hub,1,102.03,London,Crypto,5.0,False,0.0,No Return,WH-1
+ORD1147,2024-05-27,Smart Home,USB-C MegaDock,5,227.39,Berlin,Debit Card,4.0,True,0.0,No Return,WH-4
+ORD1148,2024-05-28,Wearables,RGB Mechanical Keyboard,7,195.9,Sydney,Debit Card,4.0,False,0.1,No Return,WH-2
+ORD1149,2024-05-29,Accessories,USB-C MegaDock,1,276.25,Sydney,Debit Card,4.0,False,0.0,No Return,WH-4
+ORD1150,2024-05-30,Audio,Smart Eco Hub,4,50.84,Sydney,PayPal,3.0,False,0.0,No Return,WH-3
+ORD1151,2024-05-31,Audio,Smart Eco Hub,6,269.94,New York,Debit Card,4.0,True,0.15,No Return,WH-3
+ORD1152,2024-06-01,Audio,USB-C MegaDock,2,196.32,London,PayPal,5.0,True,0.0,Pending,WH-5
+ORD1153,2024-06-02,Audio,Wireless Buds Pro,10,337.6,Mumbai,PayPal,4.0,True,0.05,No Return,WH-5
+ORD1154,2024-06-03,Smart Home,FitBand X,5,129.53,Mumbai,PayPal,5.0,False,0.0,No Return,WH-5
+ORD1155,2024-06-04,Audio,Noise-Cancel Headphones,10,226.93,New York,Crypto,4.0,False,0.0,No Return,WH-1
+ORD1156,2024-06-05,Accessories,Wireless Buds Pro,1,327.23,Berlin,Crypto,4.0,True,0.1,No Return,WH-5
+ORD1157,2024-06-06,Gaming,Wireless Buds Pro,6,49.34,New York,Debit Card,4.0,False,0.0,No Return,WH-1
+ORD1158,2024-06-07,Audio,Ultra-Wide Monitor,6,328.97,Berlin,Debit Card,4.0,False,0.0,No Return,WH-5
+ORD1159,2024-06-08,Smart Home,Noise-Cancel Headphones,4,245.44,Berlin,Crypto,5.0,True,0.05,No Return,WH-1
+ORD1160,2024-06-09,Smart Home,Noise-Cancel Headphones,8,37.73,Tokyo,Credit Card,3.0,False,0.05,No Return,WH-4
+ORD1161,2024-06-10,Audio,Wireless Buds Pro,4,115.82,Mumbai,Crypto,4.0,False,0.1,Pending,WH-4
+ORD1162,2024-06-11,Gaming,RGB Mechanical Keyboard,8,252.24,Sydney,PayPal,2.0,True,0.0,No Return,WH-3
+ORD1163,2024-06-12,Audio,Ultra-Wide Monitor,8,37.56,Berlin,Crypto,4.0,True,0.0,No Return,WH-1
+ORD1164,2024-06-13,Smart Home,Ultra-Wide Monitor,5,210.03,Tokyo,PayPal,4.0,False,0.1,No Return,WH-2
+ORD1165,2024-06-14,Wearables,Smart Eco Hub,4,130.87,Mumbai,Debit Card,5.0,False,0.05,No Return,WH-3
+ORD1166,2024-06-15,Accessories,Smart Thermostat,2,223.01,Sydney,Credit Card,,False,0.15,No Return,WH-4
+ORD1167,2024-06-16,Smart Home,Noise-Cancel Headphones,3,30.32,Berlin,Debit Card,4.0,False,0.15,No Return,WH-1
+ORD1168,2024-06-17,Audio,Wireless Buds Pro,3,306.96,Berlin,PayPal,5.0,True,0.15,No Return,WH-5
+ORD1169,2024-06-18,Accessories,Smart Eco Hub,4,341.12,New York,PayPal,4.0,True,0.0,No Return,WH-2
+ORD1170,2024-06-19,Audio,USB-C MegaDock,4,339.57,New York,PayPal,4.0,False,0.0,No Return,WH-4
+ORD1171,2024-06-20,Audio,FitBand X,10,266.13,Mumbai,Credit Card,2.0,True,0.1,No Return,WH-3
+ORD1172,2024-06-21,Wearables,Smart Thermostat,5,58.58,Sydney,Crypto,3.0,True,0.0,No Return,WH-1
+ORD1173,2024-06-22,Accessories,Smart Thermostat,4,269.02,Berlin,Debit Card,4.0,False,0.0,No Return,WH-2
+ORD1174,2024-06-23,Accessories,Smart Thermostat,10,23.24,Mumbai,Debit Card,4.0,False,0.15,Completed,WH-1
+ORD1175,2024-06-24,Wearables,Ultra-Wide Monitor,8,22.41,Mumbai,Crypto,1.0,False,0.15,No Return,WH-5
+ORD1176,2024-06-25,Smart Home,USB-C MegaDock,6,123.41,London,Debit Card,2.0,False,0.0,No Return,WH-3
+ORD1177,2024-06-26,Audio,Smart Thermostat,6,178.7,New York,Credit Card,3.0,True,0.0,Pending,WH-1
+ORD1178,2024-06-27,Gaming,USB-C MegaDock,8,273.09,Sydney,Debit Card,,False,0.0,No Return,WH-4
+ORD1179,2024-06-28,Audio,RGB Mechanical Keyboard,7,243.9,Berlin,PayPal,3.0,True,0.15,No Return,WH-3
+ORD1180,2024-06-29,Audio,Smart Thermostat,10,164.38,Mumbai,Crypto,4.0,False,0.2,Pending,WH-4
+ORD1181,2024-06-30,Smart Home,FitBand X,10,106.66,Berlin,Credit Card,3.0,False,0.0,No Return,WH-1
+ORD1182,2024-07-01,Audio,USB-C MegaDock,8,349.04,London,Crypto,4.0,False,0.0,No Return,WH-3
+ORD1183,2024-07-02,Wearables,USB-C MegaDock,2,157.77,Sydney,Credit Card,3.0,False,0.15,Completed,WH-4
+ORD1184,2024-07-03,Wearables,FitBand X,9,166.21,Mumbai,PayPal,3.0,False,0.0,No Return,WH-5
+ORD1185,2024-07-04,Accessories,Smart Thermostat,1,69.81,Berlin,Crypto,4.0,True,0.05,No Return,WH-5
+ORD1186,2024-07-05,Gaming,FitBand X,8,281.26,New York,Debit Card,1.0,False,0.2,Completed,WH-1
+ORD1187,2024-07-06,Audio,USB-C MegaDock,4,247.38,London,Credit Card,1.0,False,0.0,No Return,WH-3
+ORD1188,2024-07-07,Audio,FitBand X,4,88.96,Sydney,Crypto,3.0,True,0.05,No Return,WH-2
+ORD1189,2024-07-08,Smart Home,USB-C MegaDock,5,42.6,London,Debit Card,1.0,False,0.0,Pending,WH-3
+ORD1190,2024-07-09,Wearables,USB-C MegaDock,8,242.97,New York,Crypto,2.0,False,0.0,No Return,WH-5
+ORD1191,2024-07-10,Gaming,RGB Mechanical Keyboard,5,234.26,Sydney,Crypto,3.0,True,0.15,No Return,WH-4
+ORD1192,2024-07-11,Accessories,Wireless Buds Pro,8,106.54,London,Crypto,5.0,False,0.0,No Return,WH-2
+ORD1193,2024-07-12,Wearables,USB-C MegaDock,10,333.54,Tokyo,Credit Card,4.0,False,0.2,No Return,WH-1
+ORD1194,2024-07-13,Accessories,Smart Thermostat,1,65.6,New York,Debit Card,4.0,False,0.05,No Return,WH-2
+ORD1195,2024-07-14,Smart Home,Smart Eco Hub,10,159.83,New York,PayPal,3.0,False,0.0,No Return,WH-1
+ORD1196,2024-07-15,Smart Home,Ultra-Wide Monitor,9,331.11,New York,Credit Card,5.0,False,0.0,No Return,WH-2
+ORD1197,2024-07-16,Audio,Noise-Cancel Headphones,6,155.61,Tokyo,Credit Card,4.0,False,0.0,No Return,WH-1
+ORD1198,2024-07-17,Gaming,Wireless Buds Pro,3,228.91,Tokyo,Credit Card,2.0,False,0.0,No Return,WH-1
+ORD1199,2024-07-18,Accessories,Wireless Buds Pro,8,148.19,Berlin,PayPal,4.0,True,0.0,No Return,WH-2
+ORD1200,2024-07-19,Wearables,Wireless Buds Pro,9,106.86,Mumbai,Debit Card,2.0,False,0.0,Completed,WH-2
+ORD1201,2024-07-20,Smart Home,RGB Mechanical Keyboard,6,344.63,London,Debit Card,3.0,False,0.0,Completed,WH-1
+ORD1202,2024-07-21,Audio,USB-C MegaDock,7,152.13,Berlin,Debit Card,4.0,True,0.1,No Return,WH-5
+ORD1203,2024-07-22,Audio,RGB Mechanical Keyboard,1,314.52,London,Crypto,5.0,False,0.1,No Return,WH-2
+ORD1204,2024-07-23,Accessories,USB-C MegaDock,5,92.03,Mumbai,Crypto,4.0,False,0.1,No Return,WH-3
+ORD1205,2024-07-24,Smart Home,Smart Thermostat,5,86.39,Tokyo,Crypto,5.0,True,0.0,No Return,WH-4
+ORD1206,2024-07-25,Gaming,RGB Mechanical Keyboard,10,25.43,Mumbai,PayPal,,False,0.0,No Return,WH-1
+ORD1207,2024-07-26,Smart Home,RGB Mechanical Keyboard,4,233.31,Tokyo,Crypto,2.0,False,0.1,No Return,WH-1
+ORD1208,2024-07-27,Accessories,Ultra-Wide Monitor,6,138.46,Mumbai,PayPal,3.0,False,0.0,No Return,WH-4
+ORD1209,2024-07-28,Accessories,Smart Eco Hub,7,304.56,Berlin,Debit Card,4.0,True,0.0,No Return,WH-5
+ORD1210,2024-07-29,Smart Home,RGB Mechanical Keyboard,9,173.53,Sydney,Crypto,4.0,True,0.15,No Return,WH-4
+ORD1211,2024-07-30,Accessories,Ultra-Wide Monitor,1,339.34,Berlin,Crypto,4.0,True,0.1,No Return,WH-2
+ORD1212,2024-07-31,Smart Home,FitBand X,6,77.15,London,Credit Card,5.0,False,0.05,No Return,WH-4
+ORD1213,2024-08-01,Wearables,Smart Eco Hub,7,305.99,Berlin,PayPal,5.0,True,0.0,No Return,WH-1
+ORD1214,2024-08-02,Smart Home,Smart Thermostat,3,275.16,New York,Debit Card,4.0,False,0.1,No Return,WH-4
+ORD1215,2024-08-03,Smart Home,RGB Mechanical Keyboard,8,273.26,London,Credit Card,3.0,True,0.05,No Return,WH-3
+ORD1216,2024-08-04,Accessories,Noise-Cancel Headphones,5,298.0,Mumbai,Credit Card,5.0,True,0.1,No Return,WH-2
+ORD1217,2024-08-05,Accessories,Wireless Buds Pro,9,269.94,London,Debit Card,,False,0.1,Pending,WH-4
+ORD1218,2024-08-06,Audio,FitBand X,5,224.78,Sydney,Credit Card,5.0,False,0.15,No Return,WH-1
+ORD1219,2024-08-07,Audio,FitBand X,9,58.97,Tokyo,PayPal,1.0,True,0.05,No Return,WH-2
+ORD1220,2024-08-08,Wearables,Smart Thermostat,10,25.9,Mumbai,PayPal,4.0,False,0.0,No Return,WH-1
+ORD1221,2024-08-09,Audio,Ultra-Wide Monitor,4,323.48,London,Crypto,2.0,True,0.1,No Return,WH-5
+ORD1222,2024-08-10,Smart Home,FitBand X,9,221.58,Mumbai,Credit Card,3.0,False,0.05,No Return,WH-3
+ORD1223,2024-08-11,Accessories,Smart Eco Hub,5,281.84,Mumbai,Crypto,2.0,False,0.1,No Return,WH-5
+ORD1224,2024-08-12,Audio,RGB Mechanical Keyboard,10,176.31,Mumbai,Credit Card,4.0,True,0.0,No Return,WH-3
+ORD1225,2024-08-13,Audio,RGB Mechanical Keyboard,9,54.3,Tokyo,PayPal,5.0,True,0.0,No Return,WH-4
+ORD1226,2024-08-14,Wearables,Noise-Cancel Headphones,3,56.94,Berlin,PayPal,2.0,True,0.15,No Return,WH-2
+ORD1227,2024-08-15,Wearables,Smart Thermostat,4,244.66,Mumbai,PayPal,4.0,False,0.1,No Return,WH-4
+ORD1228,2024-08-16,Smart Home,Wireless Buds Pro,9,159.15,New York,Credit Card,4.0,False,0.2,No Return,WH-3
+ORD1229,2024-08-17,Accessories,Ultra-Wide Monitor,10,82.18,Sydney,PayPal,4.0,True,0.1,Pending,WH-3
+ORD1230,2024-08-18,Wearables,Wireless Buds Pro,6,179.68,Tokyo,Credit Card,2.0,False,0.05,No Return,WH-3
+ORD1231,2024-08-19,Audio,FitBand X,2,36.51,London,Crypto,4.0,True,0.1,No Return,WH-1
+ORD1232,2024-08-20,Accessories,Smart Thermostat,7,209.96,Tokyo,Credit Card,5.0,True,0.15,No Return,WH-2
+ORD1233,2024-08-21,Accessories,Noise-Cancel Headphones,2,105.11,London,Crypto,2.0,False,0.05,Completed,WH-4
+ORD1234,2024-08-22,Audio,Wireless Buds Pro,2,282.18,Tokyo,Credit Card,2.0,False,0.05,No Return,WH-4
+ORD1235,2024-08-23,Wearables,Smart Eco Hub,1,118.97,London,Crypto,4.0,False,0.0,No Return,WH-5
+ORD1236,2024-08-24,Audio,RGB Mechanical Keyboard,3,167.5,Mumbai,PayPal,5.0,False,0.0,No Return,WH-3
+ORD1237,2024-08-25,Accessories,FitBand X,6,18.89,Berlin,Crypto,5.0,True,0.1,No Return,WH-3
+ORD1238,2024-08-26,Gaming,Noise-Cancel Headphones,8,39.27,London,PayPal,5.0,False,0.0,No Return,WH-3
+ORD1239,2024-08-27,Gaming,Wireless Buds Pro,9,146.49,London,PayPal,4.0,True,0.0,No Return,WH-4
+ORD1240,2024-08-28,Smart Home,Ultra-Wide Monitor,7,175.78,New York,Crypto,4.0,False,0.0,No Return,WH-5
+ORD1241,2024-08-29,Audio,Smart Eco Hub,4,216.01,London,Credit Card,1.0,True,0.0,Completed,WH-1
+ORD1242,2024-08-30,Audio,Smart Eco Hub,6,112.71,New York,Credit Card,4.0,False,0.0,No Return,WH-2
+ORD1243,2024-08-31,Smart Home,Wireless Buds Pro,5,247.82,Sydney,Debit Card,5.0,True,0.0,Pending,WH-1
+ORD1244,2024-09-01,Smart Home,RGB Mechanical Keyboard,8,303.14,Mumbai,Credit Card,4.0,True,0.2,No Return,WH-4
+ORD1245,2024-09-02,Smart Home,Wireless Buds Pro,1,276.25,New York,Debit Card,5.0,False,0.05,No Return,WH-3
+ORD1246,2024-09-03,Accessories,FitBand X,1,28.27,Berlin,Credit Card,5.0,True,0.0,No Return,WH-2
+ORD1247,2024-09-04,Audio,Wireless Buds Pro,6,175.97,Mumbai,Credit Card,2.0,False,0.0,Completed,WH-4
+ORD1248,2024-09-05,Accessories,Smart Eco Hub,10,50.15,New York,PayPal,5.0,True,0.1,No Return,WH-4
+ORD1249,2024-09-06,Smart Home,Noise-Cancel Headphones,2,96.09,Mumbai,Debit Card,2.0,True,0.0,No Return,WH-4
+ORD1250,2024-09-07,Audio,Wireless Buds Pro,5,345.53,Mumbai,Credit Card,4.0,True,0.15,No Return,WH-2
+ORD1251,2024-09-08,Accessories,RGB Mechanical Keyboard,1,62.74,Mumbai,Debit Card,2.0,True,0.1,No Return,WH-2
+ORD1252,2024-09-09,Accessories,Smart Thermostat,7,182.13,Sydney,PayPal,1.0,False,0.1,No Return,WH-5
+ORD1253,2024-09-10,Smart Home,Noise-Cancel Headphones,1,222.08,Berlin,PayPal,4.0,True,0.0,No Return,WH-5
+ORD1254,2024-09-11,Audio,Ultra-Wide Monitor,4,250.33,Tokyo,Debit Card,3.0,False,0.1,No Return,WH-1
+ORD1255,2024-09-12,Smart Home,USB-C MegaDock,9,202.48,Tokyo,PayPal,4.0,False,0.0,No Return,WH-2
+ORD1256,2024-09-13,Audio,Wireless Buds Pro,1,18.27,New York,Crypto,4.0,False,0.2,Pending,WH-2
+ORD1257,2024-09-14,Gaming,RGB Mechanical Keyboard,4,124.36,Mumbai,Crypto,1.0,False,0.05,No Return,WH-2
+ORD1258,2024-09-15,Wearables,Noise-Cancel Headphones,6,188.43,New York,PayPal,2.0,False,0.0,No Return,WH-5
+ORD1259,2024-09-16,Wearables,RGB Mechanical Keyboard,6,44.44,Sydney,Crypto,4.0,False,0.0,No Return,WH-4
+ORD1260,2024-09-17,Wearables,Ultra-Wide Monitor,8,132.46,Sydney,Credit Card,3.0,True,0.0,No Return,WH-3
+ORD1261,2024-09-18,Smart Home,Smart Eco Hub,1,26.12,London,Debit Card,5.0,True,0.1,Completed,WH-5
+ORD1262,2024-09-19,Gaming,RGB Mechanical Keyboard,7,41.32,Sydney,Credit Card,5.0,False,0.0,No Return,WH-2
+ORD1263,2024-09-20,Audio,Noise-Cancel Headphones,1,147.97,London,Debit Card,5.0,False,0.05,No Return,WH-5
+ORD1264,2024-09-21,Accessories,RGB Mechanical Keyboard,7,59.46,Berlin,PayPal,5.0,False,0.0,No Return,WH-1
+ORD1265,2024-09-22,Audio,RGB Mechanical Keyboard,3,205.13,New York,Credit Card,4.0,False,0.1,No Return,WH-2
+ORD1266,2024-09-23,Accessories,RGB Mechanical Keyboard,8,245.97,Berlin,PayPal,5.0,False,0.15,Completed,WH-1
+ORD1267,2024-09-24,Audio,FitBand X,3,283.2,Sydney,PayPal,3.0,False,0.1,No Return,WH-2
+ORD1268,2024-09-25,Gaming,FitBand X,1,82.05,Berlin,Debit Card,3.0,False,0.1,No Return,WH-5
+ORD1269,2024-09-26,Accessories,Smart Eco Hub,8,71.11,Berlin,Debit Card,5.0,True,0.0,No Return,WH-4
+ORD1270,2024-09-27,Smart Home,Wireless Buds Pro,3,50.03,Berlin,Debit Card,4.0,False,0.0,No Return,WH-3
+ORD1271,2024-09-28,Audio,RGB Mechanical Keyboard,2,228.2,Sydney,Credit Card,5.0,True,0.1,No Return,WH-1
+ORD1272,2024-09-29,Audio,Ultra-Wide Monitor,1,251.67,Mumbai,Crypto,5.0,True,0.0,No Return,WH-5
+ORD1273,2024-09-30,Accessories,Wireless Buds Pro,3,25.58,Berlin,Debit Card,5.0,False,0.0,No Return,WH-4
+ORD1274,2024-10-01,Smart Home,Ultra-Wide Monitor,2,328.63,London,Debit Card,5.0,True,0.0,No Return,WH-5
+ORD1275,2024-10-02,Smart Home,Wireless Buds Pro,2,32.41,Sydney,Credit Card,4.0,True,0.0,No Return,WH-1
+ORD1276,2024-10-03,Gaming,Smart Eco Hub,6,196.33,Berlin,Debit Card,3.0,True,0.0,No Return,WH-3
+ORD1277,2024-10-04,Smart Home,RGB Mechanical Keyboard,1,252.54,Mumbai,Credit Card,4.0,False,0.15,No Return,WH-5
+ORD1278,2024-10-05,Smart Home,RGB Mechanical Keyboard,2,306.77,Sydney,PayPal,4.0,False,0.0,No Return,WH-2
+ORD1279,2024-10-06,Smart Home,USB-C MegaDock,6,254.22,Tokyo,Debit Card,4.0,False,0.05,No Return,WH-4
+ORD1280,2024-10-07,Wearables,Ultra-Wide Monitor,3,283.58,Mumbai,Debit Card,5.0,False,0.0,No Return,WH-5
+ORD1281,2024-10-08,Gaming,Wireless Buds Pro,4,128.72,London,PayPal,5.0,False,0.1,No Return,WH-4
+ORD1282,2024-10-09,Audio,Wireless Buds Pro,1,287.97,Berlin,PayPal,4.0,True,0.0,No Return,WH-2
+ORD1283,2024-10-10,Accessories,Smart Thermostat,8,41.84,Tokyo,PayPal,3.0,False,0.15,No Return,WH-3
+ORD1284,2024-10-11,Audio,Smart Thermostat,7,314.76,Tokyo,Debit Card,4.0,False,0.15,No Return,WH-3
+ORD1285,2024-10-12,Gaming,FitBand X,7,198.44,Sydney,Crypto,2.0,False,0.0,No Return,WH-2
+ORD1286,2024-10-13,Accessories,USB-C MegaDock,3,288.79,Tokyo,Crypto,5.0,True,0.2,No Return,WH-4
+ORD1287,2024-10-14,Gaming,Noise-Cancel Headphones,10,166.53,London,Crypto,3.0,False,0.2,No Return,WH-5
+ORD1288,2024-10-15,Smart Home,Smart Thermostat,10,230.6,London,Debit Card,3.0,False,0.15,No Return,WH-2
+ORD1289,2024-10-16,Accessories,Noise-Cancel Headphones,3,191.34,New York,PayPal,1.0,True,0.15,No Return,WH-1
+ORD1290,2024-10-17,Smart Home,FitBand X,2,260.08,London,Debit Card,4.0,False,0.0,No Return,WH-4
+ORD1291,2024-10-18,Audio,FitBand X,1,42.35,Mumbai,PayPal,4.0,True,0.05,No Return,WH-3
+ORD1292,2024-10-19,Audio,FitBand X,7,35.22,Tokyo,Debit Card,3.0,True,0.0,No Return,WH-2
+ORD1293,2024-10-20,Accessories,Ultra-Wide Monitor,7,97.78,London,Debit Card,2.0,False,0.0,No Return,WH-3
+ORD1294,2024-10-21,Accessories,Ultra-Wide Monitor,2,68.45,Sydney,PayPal,4.0,True,0.2,No Return,WH-4
+ORD1295,2024-10-22,Gaming,Smart Eco Hub,7,307.05,New York,Crypto,3.0,False,0.0,No Return,WH-3
+ORD1296,2024-10-23,Gaming,Smart Eco Hub,8,88.44,Tokyo,PayPal,5.0,False,0.1,No Return,WH-2
+ORD1297,2024-10-24,Smart Home,FitBand X,1,341.91,New York,Credit Card,4.0,True,0.15,No Return,WH-4
+ORD1298,2024-10-25,Accessories,USB-C MegaDock,9,127.86,Tokyo,Credit Card,4.0,False,0.15,No Return,WH-1
+ORD1299,2024-10-26,Audio,Wireless Buds Pro,7,76.01,Sydney,PayPal,3.0,True,0.2,No Return,WH-2
+ORD1300,2024-10-27,Gaming,Ultra-Wide Monitor,3,279.55,New York,Debit Card,,True,0.0,No Return,WH-5
+ORD1301,2024-10-28,Gaming,USB-C MegaDock,8,235.67,Berlin,Credit Card,4.0,True,0.0,No Return,WH-2
+ORD1302,2024-10-29,Audio,RGB Mechanical Keyboard,7,181.9,Mumbai,Credit Card,5.0,True,0.0,Completed,WH-4
+ORD1303,2024-10-30,Gaming,Ultra-Wide Monitor,8,201.05,Mumbai,Debit Card,2.0,True,0.0,No Return,WH-2
+ORD1304,2024-10-31,Smart Home,Ultra-Wide Monitor,6,255.93,Tokyo,Debit Card,4.0,False,0.0,Completed,WH-1
+ORD1305,2024-11-01,Accessories,Smart Eco Hub,9,91.53,Berlin,Crypto,1.0,False,0.0,No Return,WH-1
+ORD1306,2024-11-02,Audio,Wireless Buds Pro,5,348.77,New York,Debit Card,4.0,True,0.1,No Return,WH-5
+ORD1307,2024-11-03,Accessories,Wireless Buds Pro,3,341.56,Berlin,PayPal,,False,0.05,No Return,WH-3
+ORD1308,2024-11-04,Gaming,Smart Thermostat,3,232.86,Berlin,PayPal,4.0,False,0.0,No Return,WH-4
+ORD1309,2024-11-05,Gaming,Noise-Cancel Headphones,1,81.85,New York,Crypto,1.0,False,0.1,No Return,WH-4
+ORD1310,2024-11-06,Audio,Noise-Cancel Headphones,8,242.88,Sydney,Credit Card,1.0,False,0.0,No Return,WH-3
+ORD1311,2024-11-07,Smart Home,Noise-Cancel Headphones,2,39.19,Berlin,Credit Card,4.0,True,0.0,No Return,WH-1
+ORD1312,2024-11-08,Wearables,Noise-Cancel Headphones,3,25.27,Berlin,Debit Card,3.0,True,0.1,No Return,WH-1
+ORD1313,2024-11-09,Audio,RGB Mechanical Keyboard,8,101.32,Sydney,PayPal,1.0,False,0.05,No Return,WH-2
+ORD1314,2024-11-10,Wearables,RGB Mechanical Keyboard,8,169.98,Berlin,Credit Card,5.0,False,0.1,No Return,WH-5
+ORD1315,2024-11-11,Wearables,Ultra-Wide Monitor,4,305.87,Berlin,Crypto,4.0,True,0.0,No Return,WH-5
+ORD1316,2024-11-12,Smart Home,FitBand X,4,258.6,Berlin,Crypto,3.0,True,0.15,No Return,WH-5
+ORD1317,2024-11-13,Wearables,Smart Eco Hub,5,263.81,Mumbai,PayPal,5.0,False,0.05,Completed,WH-2
+ORD1318,2024-11-14,Wearables,Smart Eco Hub,6,157.54,London,Crypto,2.0,False,0.05,No Return,WH-5
+ORD1319,2024-11-15,Smart Home,Noise-Cancel Headphones,5,130.89,Sydney,Crypto,,False,0.05,No Return,WH-3
+ORD1320,2024-11-16,Wearables,Ultra-Wide Monitor,7,139.3,Berlin,PayPal,3.0,False,0.15,No Return,WH-2
+ORD1321,2024-11-17,Wearables,Smart Thermostat,2,345.86,Mumbai,Debit Card,5.0,True,0.05,No Return,WH-3
+ORD1322,2024-11-18,Wearables,USB-C MegaDock,7,28.44,Sydney,Debit Card,4.0,False,0.05,No Return,WH-2
+ORD1323,2024-11-19,Audio,FitBand X,10,305.46,Tokyo,Crypto,5.0,False,0.2,No Return,WH-5
+ORD1324,2024-11-20,Audio,Ultra-Wide Monitor,7,208.86,Tokyo,Debit Card,,True,0.1,No Return,WH-3
+ORD1325,2024-11-21,Audio,FitBand X,1,161.94,Berlin,Debit Card,3.0,False,0.0,No Return,WH-3
+ORD1326,2024-11-22,Smart Home,FitBand X,7,257.96,Mumbai,Crypto,,False,0.1,No Return,WH-3
+ORD1327,2024-11-23,Gaming,FitBand X,5,178.03,Mumbai,Debit Card,4.0,True,0.0,No Return,WH-2
+ORD1328,2024-11-24,Wearables,Ultra-Wide Monitor,3,307.6,Sydney,Crypto,4.0,False,0.0,No Return,WH-4
+ORD1329,2024-11-25,Wearables,Noise-Cancel Headphones,3,316.74,Sydney,Credit Card,3.0,False,0.05,No Return,WH-5
+ORD1330,2024-11-26,Smart Home,Smart Eco Hub,4,156.28,Mumbai,PayPal,4.0,False,0.2,No Return,WH-3
+ORD1331,2024-11-27,Wearables,Smart Eco Hub,2,107.74,Sydney,PayPal,3.0,True,0.2,No Return,WH-4
+ORD1332,2024-11-28,Audio,Noise-Cancel Headphones,2,213.44,Mumbai,Debit Card,4.0,True,0.0,No Return,WH-5
+ORD1333,2024-11-29,Gaming,FitBand X,1,320.64,London,Debit Card,4.0,False,0.05,No Return,WH-5
+ORD1334,2024-11-30,Accessories,USB-C MegaDock,5,85.57,Mumbai,Debit Card,5.0,True,0.0,Pending,WH-3
+ORD1335,2024-12-01,Wearables,Wireless Buds Pro,4,223.69,Tokyo,PayPal,5.0,False,0.2,No Return,WH-3
+ORD1336,2024-12-02,Audio,Ultra-Wide Monitor,10,226.57,Sydney,Credit Card,4.0,False,0.2,Pending,WH-2
+ORD1337,2024-12-03,Accessories,Wireless Buds Pro,2,260.59,Mumbai,Credit Card,3.0,True,0.05,Completed,WH-4
+ORD1338,2024-12-04,Gaming,Smart Thermostat,3,59.08,Mumbai,PayPal,3.0,False,0.15,No Return,WH-4
+ORD1339,2024-12-05,Accessories,Noise-Cancel Headphones,7,254.8,Sydney,Credit Card,3.0,False,0.1,No Return,WH-3
+ORD1340,2024-12-06,Audio,USB-C MegaDock,7,319.53,London,PayPal,2.0,True,0.05,No Return,WH-5
+ORD1341,2024-12-07,Accessories,Ultra-Wide Monitor,4,75.19,London,Credit Card,3.0,False,0.0,No Return,WH-3
+ORD1342,2024-12-08,Smart Home,Noise-Cancel Headphones,5,94.58,Sydney,Crypto,3.0,False,0.0,Completed,WH-5
+ORD1343,2024-12-09,Accessories,FitBand X,5,340.42,New York,Crypto,,False,0.1,No Return,WH-5
+ORD1344,2024-12-10,Wearables,Smart Eco Hub,6,75.63,Sydney,PayPal,4.0,False,0.1,No Return,WH-3
+ORD1345,2024-12-11,Wearables,Wireless Buds Pro,9,301.22,Sydney,Credit Card,3.0,False,0.0,No Return,WH-1
+ORD1346,2024-12-12,Smart Home,RGB Mechanical Keyboard,2,179.91,London,Debit Card,4.0,False,0.2,No Return,WH-4
+ORD1347,2024-12-13,Audio,RGB Mechanical Keyboard,5,97.82,London,Credit Card,2.0,False,0.0,No Return,WH-5
+ORD1348,2024-12-14,Wearables,USB-C MegaDock,3,306.7,Sydney,Crypto,4.0,False,0.05,No Return,WH-5
+ORD1349,2024-12-15,Gaming,FitBand X,4,164.18,Sydney,Crypto,4.0,False,0.1,No Return,WH-1
+ORD1350,2024-12-16,Wearables,Smart Thermostat,10,187.46,Sydney,Credit Card,4.0,True,0.1,Completed,WH-2
+ORD1351,2024-12-17,Wearables,Wireless Buds Pro,6,135.34,London,Credit Card,4.0,False,0.05,Completed,WH-1
+ORD1352,2024-12-18,Audio,FitBand X,8,213.64,Sydney,Debit Card,,True,0.0,No Return,WH-1
+ORD1353,2024-12-19,Accessories,Wireless Buds Pro,1,69.78,Sydney,Debit Card,5.0,True,0.0,No Return,WH-5
+ORD1354,2024-12-20,Wearables,USB-C MegaDock,10,146.01,Berlin,Credit Card,4.0,True,0.05,Completed,WH-4
+ORD1355,2024-12-21,Smart Home,USB-C MegaDock,8,339.75,New York,Credit Card,4.0,False,0.05,No Return,WH-1
+ORD1356,2024-12-22,Accessories,Smart Thermostat,7,101.47,Tokyo,Credit Card,4.0,False,0.0,Completed,WH-2
+ORD1357,2024-12-23,Gaming,RGB Mechanical Keyboard,1,235.01,New York,Credit Card,3.0,False,0.1,No Return,WH-3
+ORD1358,2024-12-24,Audio,FitBand X,2,123.94,Berlin,PayPal,4.0,False,0.0,No Return,WH-1
+ORD1359,2024-12-25,Gaming,Ultra-Wide Monitor,3,274.11,Tokyo,Credit Card,1.0,False,0.1,Completed,WH-1
+ORD1360,2024-12-26,Accessories,RGB Mechanical Keyboard,1,58.84,Sydney,Debit Card,4.0,False,0.15,No Return,WH-2
+ORD1361,2024-12-27,Accessories,FitBand X,9,339.89,Berlin,Crypto,4.0,False,0.0,No Return,WH-4
+ORD1362,2024-12-28,Accessories,RGB Mechanical Keyboard,8,167.02,Sydney,PayPal,3.0,True,0.0,No Return,WH-1
+ORD1363,2024-12-29,Gaming,Ultra-Wide Monitor,2,94.08,London,Credit Card,,True,0.1,No Return,WH-1
+ORD1364,2024-12-30,Accessories,Smart Eco Hub,9,39.62,Mumbai,Crypto,5.0,False,0.05,No Return,WH-4
+ORD1365,2024-12-31,Gaming,Smart Eco Hub,7,71.87,Berlin,PayPal,5.0,False,0.1,No Return,WH-2
+ORD1366,2025-01-01,Accessories,Smart Thermostat,9,189.12,London,Crypto,4.0,True,0.15,No Return,WH-1
+ORD1367,2025-01-02,Smart Home,Smart Eco Hub,6,127.9,Berlin,Credit Card,5.0,True,0.15,No Return,WH-4
+ORD1368,2025-01-03,Accessories,Smart Eco Hub,6,292.68,Berlin,Credit Card,2.0,False,0.2,No Return,WH-1
+ORD1369,2025-01-04,Gaming,Noise-Cancel Headphones,4,159.35,London,Debit Card,5.0,True,0.05,No Return,WH-3
+ORD1370,2025-01-05,Wearables,Wireless Buds Pro,10,98.32,Tokyo,Credit Card,2.0,False,0.0,Completed,WH-5
+ORD1371,2025-01-06,Accessories,Noise-Cancel Headphones,10,221.74,New York,Credit Card,5.0,False,0.0,No Return,WH-3
+ORD1372,2025-01-07,Wearables,Noise-Cancel Headphones,2,251.77,Sydney,PayPal,3.0,False,0.0,No Return,WH-1
+ORD1373,2025-01-08,Smart Home,Smart Thermostat,7,70.96,Berlin,Debit Card,5.0,True,0.05,No Return,WH-2
+ORD1374,2025-01-09,Audio,Noise-Cancel Headphones,5,71.15,Sydney,PayPal,5.0,False,0.0,No Return,WH-5
+ORD1375,2025-01-10,Smart Home,Smart Eco Hub,6,27.28,Mumbai,Crypto,2.0,False,0.2,No Return,WH-3
+ORD1376,2025-01-11,Accessories,Ultra-Wide Monitor,2,261.69,London,Credit Card,4.0,False,0.05,No Return,WH-4
+ORD1377,2025-01-12,Wearables,Smart Thermostat,5,237.37,Sydney,Crypto,,False,0.05,No Return,WH-2
+ORD1378,2025-01-13,Wearables,Smart Thermostat,10,174.0,London,PayPal,4.0,True,0.0,Pending,WH-3
+ORD1379,2025-01-14,Gaming,USB-C MegaDock,4,297.8,Sydney,Credit Card,5.0,False,0.0,No Return,WH-4
+ORD1380,2025-01-15,Wearables,Smart Thermostat,9,284.9,New York,Credit Card,4.0,False,0.0,No Return,WH-1
+ORD1381,2025-01-16,Gaming,USB-C MegaDock,6,211.09,New York,PayPal,4.0,False,0.0,No Return,WH-4
+ORD1382,2025-01-17,Audio,Smart Thermostat,2,305.87,New York,PayPal,3.0,True,0.0,Pending,WH-3
+ORD1383,2025-01-18,Accessories,Wireless Buds Pro,1,83.96,New York,PayPal,3.0,False,0.05,No Return,WH-3
+ORD1384,2025-01-19,Gaming,Smart Eco Hub,5,52.49,New York,PayPal,5.0,False,0.15,No Return,WH-1
+ORD1385,2025-01-20,Audio,Smart Thermostat,9,105.37,New York,PayPal,4.0,True,0.15,Completed,WH-4
+ORD1386,2025-01-21,Wearables,Smart Eco Hub,6,34.12,London,Credit Card,4.0,True,0.1,No Return,WH-4
+ORD1387,2025-01-22,Wearables,Smart Eco Hub,10,192.94,Berlin,PayPal,4.0,False,0.0,No Return,WH-1
+ORD1388,2025-01-23,Audio,RGB Mechanical Keyboard,7,328.76,Sydney,Credit Card,4.0,True,0.15,No Return,WH-4
+ORD1389,2025-01-24,Wearables,Smart Thermostat,5,28.18,New York,Credit Card,5.0,True,0.15,No Return,WH-1
+ORD1390,2025-01-25,Audio,FitBand X,10,55.91,London,PayPal,,True,0.0,No Return,WH-2
+ORD1391,2025-01-26,Gaming,RGB Mechanical Keyboard,6,166.49,London,PayPal,4.0,False,0.1,No Return,WH-3
+ORD1392,2025-01-27,Gaming,FitBand X,5,327.85,London,Debit Card,5.0,False,0.0,No Return,WH-2
+ORD1393,2025-01-28,Audio,Smart Eco Hub,9,120.91,Berlin,Credit Card,5.0,False,0.15,No Return,WH-5
+ORD1394,2025-01-29,Gaming,Smart Eco Hub,6,184.92,Sydney,PayPal,4.0,True,0.2,No Return,WH-5
+ORD1395,2025-01-30,Gaming,RGB Mechanical Keyboard,8,28.93,Berlin,PayPal,,False,0.0,No Return,WH-5
+ORD1396,2025-01-31,Gaming,RGB Mechanical Keyboard,2,64.69,Tokyo,PayPal,3.0,False,0.15,No Return,WH-1
+ORD1397,2025-02-01,Smart Home,FitBand X,9,345.52,London,Debit Card,2.0,False,0.05,No Return,WH-4
+ORD1398,2025-02-02,Accessories,USB-C MegaDock,5,338.31,Tokyo,Debit Card,5.0,False,0.2,No Return,WH-2
+ORD1399,2025-02-03,Wearables,FitBand X,7,16.65,Mumbai,Crypto,4.0,True,0.0,No Return,WH-2
+ORD1400,2025-02-04,Smart Home,RGB Mechanical Keyboard,10,333.86,New York,Credit Card,5.0,False,0.15,No Return,WH-2
+ORD1401,2025-02-05,Gaming,Ultra-Wide Monitor,1,229.11,New York,Crypto,5.0,True,0.0,Completed,WH-2
+ORD1402,2025-02-06,Audio,RGB Mechanical Keyboard,10,305.75,Berlin,PayPal,2.0,False,0.0,Completed,WH-5
+ORD1403,2025-02-07,Gaming,Ultra-Wide Monitor,5,167.34,Sydney,Debit Card,5.0,True,0.0,No Return,WH-2
+ORD1404,2025-02-08,Accessories,Wireless Buds Pro,10,187.72,Tokyo,Debit Card,4.0,True,0.2,No Return,WH-4
+ORD1405,2025-02-09,Gaming,RGB Mechanical Keyboard,2,178.76,Sydney,Crypto,4.0,True,0.15,No Return,WH-5
+ORD1406,2025-02-10,Audio,Wireless Buds Pro,6,238.4,Berlin,Debit Card,4.0,False,0.15,No Return,WH-2
+ORD1407,2025-02-11,Accessories,USB-C MegaDock,1,61.78,New York,PayPal,5.0,True,0.2,No Return,WH-1
+ORD1408,2025-02-12,Gaming,FitBand X,3,25.04,Sydney,Debit Card,1.0,False,0.0,No Return,WH-3
+ORD1409,2025-02-13,Accessories,Ultra-Wide Monitor,5,118.16,Sydney,Crypto,4.0,False,0.0,No Return,WH-3
+ORD1410,2025-02-14,Wearables,FitBand X,4,251.07,New York,PayPal,5.0,True,0.0,No Return,WH-3
+ORD1411,2025-02-15,Wearables,Wireless Buds Pro,3,82.62,Tokyo,Crypto,5.0,False,0.0,No Return,WH-5
+ORD1412,2025-02-16,Gaming,Ultra-Wide Monitor,10,240.6,New York,Debit Card,5.0,True,0.0,No Return,WH-2
+ORD1413,2025-02-17,Accessories,FitBand X,5,339.92,Sydney,Crypto,2.0,False,0.0,No Return,WH-5
+ORD1414,2025-02-18,Audio,RGB Mechanical Keyboard,8,46.46,Tokyo,Crypto,3.0,False,0.0,No Return,WH-4
+ORD1415,2025-02-19,Gaming,Smart Eco Hub,4,240.32,Tokyo,Credit Card,4.0,True,0.0,No Return,WH-1
+ORD1416,2025-02-20,Wearables,Wireless Buds Pro,1,163.66,New York,Debit Card,5.0,True,0.0,No Return,WH-1
+ORD1417,2025-02-21,Wearables,FitBand X,7,305.83,Sydney,Debit Card,3.0,True,0.0,No Return,WH-3
+ORD1418,2025-02-22,Gaming,Wireless Buds Pro,8,74.35,Berlin,Crypto,3.0,False,0.2,No Return,WH-3
+ORD1419,2025-02-23,Accessories,Noise-Cancel Headphones,3,247.03,Sydney,Credit Card,,False,0.1,No Return,WH-3
+ORD1420,2025-02-24,Wearables,Wireless Buds Pro,6,295.77,London,Debit Card,1.0,False,0.2,No Return,WH-2
+ORD1421,2025-02-25,Accessories,Ultra-Wide Monitor,2,331.45,Mumbai,PayPal,,False,0.0,No Return,WH-4
+ORD1422,2025-02-26,Wearables,Noise-Cancel Headphones,7,243.89,Berlin,Crypto,5.0,True,0.0,No Return,WH-4
+ORD1423,2025-02-27,Wearables,Smart Thermostat,8,181.55,Tokyo,Debit Card,5.0,False,0.1,No Return,WH-4
+ORD1424,2025-02-28,Smart Home,Ultra-Wide Monitor,6,221.98,Berlin,PayPal,3.0,False,0.0,Pending,WH-4
+ORD1425,2025-03-01,Wearables,Smart Eco Hub,6,306.08,Tokyo,Debit Card,1.0,True,0.0,No Return,WH-3
+ORD1426,2025-03-02,Audio,Noise-Cancel Headphones,5,206.15,Tokyo,PayPal,5.0,True,0.0,No Return,WH-1
+ORD1427,2025-03-03,Gaming,Smart Thermostat,8,25.18,Berlin,Crypto,5.0,True,0.0,No Return,WH-3
+ORD1428,2025-03-04,Gaming,RGB Mechanical Keyboard,1,326.87,Tokyo,Debit Card,5.0,False,0.0,No Return,WH-4
+ORD1429,2025-03-05,Accessories,Wireless Buds Pro,10,245.99,Tokyo,Debit Card,2.0,False,0.0,No Return,WH-3
+ORD1430,2025-03-06,Wearables,FitBand X,4,241.63,London,Credit Card,5.0,True,0.1,No Return,WH-4
+ORD1431,2025-03-07,Audio,USB-C MegaDock,4,87.25,Sydney,Crypto,5.0,False,0.0,No Return,WH-5
+ORD1432,2025-03-08,Accessories,Wireless Buds Pro,3,235.73,Sydney,PayPal,5.0,True,0.0,No Return,WH-1
+ORD1433,2025-03-09,Smart Home,Smart Thermostat,3,146.94,Mumbai,Debit Card,5.0,False,0.15,No Return,WH-5
+ORD1434,2025-03-10,Accessories,Wireless Buds Pro,4,233.16,Mumbai,Debit Card,5.0,True,0.0,No Return,WH-2
+ORD1435,2025-03-11,Accessories,Smart Eco Hub,1,50.71,London,PayPal,4.0,False,0.0,No Return,WH-3
+ORD1436,2025-03-12,Wearables,RGB Mechanical Keyboard,2,235.38,Mumbai,Crypto,2.0,False,0.15,No Return,WH-2
+ORD1437,2025-03-13,Smart Home,USB-C MegaDock,9,349.8,Berlin,Credit Card,4.0,False,0.0,No Return,WH-3
+ORD1438,2025-03-14,Accessories,Noise-Cancel Headphones,10,31.15,New York,Credit Card,2.0,False,0.0,No Return,WH-5
+ORD1439,2025-03-15,Audio,Noise-Cancel Headphones,2,342.35,New York,Debit Card,4.0,True,0.0,No Return,WH-4
+ORD1440,2025-03-16,Audio,Noise-Cancel Headphones,5,151.31,New York,PayPal,4.0,True,0.0,No Return,WH-4
+ORD1441,2025-03-17,Gaming,Smart Thermostat,9,306.7,London,Debit Card,2.0,True,0.05,No Return,WH-3
+ORD1442,2025-03-18,Smart Home,Ultra-Wide Monitor,9,277.1,London,PayPal,3.0,True,0.15,No Return,WH-4
+ORD1443,2025-03-19,Smart Home,Ultra-Wide Monitor,8,204.95,Tokyo,Credit Card,2.0,False,0.0,No Return,WH-5
+ORD1444,2025-03-20,Gaming,FitBand X,1,262.38,New York,Crypto,5.0,True,0.05,No Return,WH-4
+ORD1445,2025-03-21,Accessories,USB-C MegaDock,1,309.3,Berlin,PayPal,5.0,True,0.05,No Return,WH-5
+ORD1446,2025-03-22,Smart Home,Noise-Cancel Headphones,9,150.39,Mumbai,Credit Card,2.0,False,0.0,No Return,WH-2
+ORD1447,2025-03-23,Audio,Ultra-Wide Monitor,8,124.56,Berlin,Debit Card,,False,0.05,Completed,WH-5
+ORD1448,2025-03-24,Audio,Smart Thermostat,10,238.64,Mumbai,PayPal,4.0,False,0.0,No Return,WH-1
+ORD1449,2025-03-25,Wearables,FitBand X,9,285.63,New York,Crypto,3.0,True,0.0,Completed,WH-1
+ORD1450,2025-03-26,Smart Home,RGB Mechanical Keyboard,7,270.37,New York,Debit Card,2.0,True,0.0,No Return,WH-1
+ORD1451,2025-03-27,Accessories,FitBand X,3,282.27,New York,Debit Card,4.0,False,0.0,No Return,WH-3
+ORD1452,2025-03-28,Gaming,Ultra-Wide Monitor,3,160.92,London,Credit Card,5.0,True,0.0,No Return,WH-3
+ORD1453,2025-03-29,Gaming,Smart Eco Hub,2,288.97,Mumbai,PayPal,5.0,True,0.15,No Return,WH-3
+ORD1454,2025-03-30,Accessories,Smart Thermostat,5,55.27,London,Debit Card,2.0,False,0.0,No Return,WH-5
+ORD1455,2025-03-31,Wearables,Smart Eco Hub,3,197.4,London,Crypto,2.0,False,0.0,No Return,WH-3
+ORD1456,2025-04-01,Gaming,Noise-Cancel Headphones,6,16.93,Sydney,PayPal,4.0,False,0.0,No Return,WH-2
+ORD1457,2025-04-02,Smart Home,Smart Eco Hub,2,123.74,Berlin,Crypto,3.0,True,0.1,Pending,WH-1
+ORD1458,2025-04-03,Wearables,Noise-Cancel Headphones,3,137.76,Berlin,Debit Card,3.0,True,0.05,No Return,WH-5
+ORD1459,2025-04-04,Smart Home,Noise-Cancel Headphones,5,147.72,Tokyo,Crypto,3.0,False,0.1,No Return,WH-1
+ORD1460,2025-04-05,Audio,Ultra-Wide Monitor,1,247.98,London,Credit Card,5.0,True,0.1,No Return,WH-3
+ORD1461,2025-04-06,Wearables,Smart Eco Hub,1,145.17,Mumbai,Crypto,5.0,False,0.15,No Return,WH-5
+ORD1462,2025-04-07,Gaming,Noise-Cancel Headphones,10,165.31,Sydney,PayPal,4.0,False,0.0,No Return,WH-4
+ORD1463,2025-04-08,Wearables,USB-C MegaDock,9,94.58,Sydney,Crypto,5.0,False,0.05,No Return,WH-2
+ORD1464,2025-04-09,Wearables,RGB Mechanical Keyboard,7,140.04,Berlin,Crypto,3.0,True,0.15,No Return,WH-3
+ORD1465,2025-04-10,Wearables,FitBand X,1,91.14,London,Credit Card,4.0,True,0.2,No Return,WH-3
+ORD1466,2025-04-11,Wearables,FitBand X,8,39.52,Tokyo,Crypto,3.0,False,0.15,No Return,WH-2
+ORD1467,2025-04-12,Smart Home,Ultra-Wide Monitor,3,217.16,London,Crypto,4.0,False,0.0,No Return,WH-2
+ORD1468,2025-04-13,Audio,Smart Eco Hub,8,238.85,New York,Debit Card,,False,0.0,No Return,WH-4
+ORD1469,2025-04-14,Accessories,Smart Eco Hub,5,222.53,London,Debit Card,4.0,True,0.0,No Return,WH-3
+ORD1470,2025-04-15,Wearables,Noise-Cancel Headphones,1,170.27,New York,PayPal,4.0,True,0.1,No Return,WH-3
+ORD1471,2025-04-16,Gaming,Smart Thermostat,7,142.23,New York,Debit Card,4.0,False,0.0,No Return,WH-1
+ORD1472,2025-04-17,Wearables,Wireless Buds Pro,5,304.22,Tokyo,Debit Card,2.0,False,0.0,No Return,WH-5
+ORD1473,2025-04-18,Gaming,Noise-Cancel Headphones,6,188.89,Mumbai,Debit Card,5.0,False,0.15,No Return,WH-5
+ORD1474,2025-04-19,Smart Home,RGB Mechanical Keyboard,6,175.53,Berlin,Debit Card,4.0,True,0.0,No Return,WH-1
+ORD1475,2025-04-20,Gaming,USB-C MegaDock,8,23.59,London,Credit Card,4.0,False,0.15,No Return,WH-5
+ORD1476,2025-04-21,Accessories,FitBand X,9,129.32,New York,Debit Card,4.0,False,0.0,No Return,WH-2
+ORD1477,2025-04-22,Audio,Noise-Cancel Headphones,2,142.37,London,Credit Card,4.0,False,0.0,Completed,WH-5
+ORD1478,2025-04-23,Gaming,Wireless Buds Pro,9,148.61,Mumbai,Credit Card,2.0,False,0.0,No Return,WH-5
+ORD1479,2025-04-24,Gaming,Wireless Buds Pro,10,209.36,Berlin,Debit Card,5.0,True,0.1,No Return,WH-1
+ORD1480,2025-04-25,Audio,Noise-Cancel Headphones,9,193.76,Mumbai,Crypto,3.0,False,0.0,No Return,WH-4
+ORD1481,2025-04-26,Accessories,Ultra-Wide Monitor,10,218.65,Berlin,Credit Card,5.0,True,0.0,Completed,WH-5
+ORD1482,2025-04-27,Wearables,FitBand X,10,271.24,Sydney,Crypto,5.0,False,0.2,No Return,WH-5
+ORD1483,2025-04-28,Gaming,Ultra-Wide Monitor,7,287.35,Berlin,Crypto,5.0,False,0.0,No Return,WH-4
+ORD1484,2025-04-29,Audio,USB-C MegaDock,1,255.57,Tokyo,Debit Card,4.0,True,0.05,No Return,WH-1
+ORD1485,2025-04-30,Smart Home,Wireless Buds Pro,7,335.1,Mumbai,PayPal,4.0,False,0.05,No Return,WH-4
+ORD1486,2025-05-01,Audio,Wireless Buds Pro,10,21.11,New York,Debit Card,2.0,True,0.0,No Return,WH-1
+ORD1487,2025-05-02,Smart Home,RGB Mechanical Keyboard,5,80.59,Sydney,PayPal,5.0,False,0.05,No Return,WH-2
+ORD1488,2025-05-03,Accessories,USB-C MegaDock,6,17.53,Tokyo,PayPal,3.0,False,0.0,Completed,WH-1
+ORD1489,2025-05-04,Wearables,Wireless Buds Pro,10,231.9,London,Debit Card,4.0,True,0.05,Pending,WH-2
+ORD1490,2025-05-05,Audio,USB-C MegaDock,7,315.84,Mumbai,Debit Card,3.0,True,0.0,No Return,WH-2
+ORD1491,2025-05-06,Gaming,FitBand X,5,96.57,New York,PayPal,2.0,False,0.1,Completed,WH-1
+ORD1492,2025-05-07,Accessories,Smart Eco Hub,7,325.56,Berlin,Debit Card,4.0,True,0.0,No Return,WH-3
+ORD1493,2025-05-08,Audio,Wireless Buds Pro,9,35.19,New York,PayPal,2.0,False,0.05,No Return,WH-1
+ORD1494,2025-05-09,Gaming,RGB Mechanical Keyboard,3,328.04,London,Crypto,5.0,False,0.0,No Return,WH-5
+ORD1495,2025-05-10,Audio,FitBand X,8,132.79,Sydney,Debit Card,3.0,False,0.0,No Return,WH-5
+ORD1496,2025-05-11,Smart Home,Noise-Cancel Headphones,2,48.98,Sydney,Crypto,1.0,True,0.0,No Return,WH-3
+ORD1497,2025-05-12,Audio,USB-C MegaDock,7,177.77,Mumbai,Credit Card,4.0,False,0.0,No Return,WH-2
+ORD1498,2025-05-13,Audio,Noise-Cancel Headphones,2,101.02,Sydney,Crypto,1.0,False,0.15,No Return,WH-3
+ORD1499,2025-05-14,Audio,Ultra-Wide Monitor,4,110.43,Mumbai,Crypto,3.0,True,0.0,Completed,WH-5
